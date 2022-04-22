@@ -24,7 +24,7 @@
 案外 [あんがい]: unexpectedly; surprisingly​; unexpected; unanticipated; unforeseen; surprising
 安易 [あんっい]: easy; simple​; easygoing; lighthearted; simplistic; irresponsible; careless; quick (to do)​
 安価 [あんか]: low-priced; cheap; inexpensive​
-仰向け [あぉむけ]: face up
+仰向け [あおむけ]: face up
 荒い [あらい]: rough; wild; violent; rude; coarse; harsh; fierce; heavy (e.g. breathing)​; immoderate; extravagant; reckless​
 洗い出す [あらいだす]: to reveal something by washing the surface​; to bring to light; to reveal by investigation​
 予め [あらかじめ]: beforehand; in advance; previously​
@@ -33,7 +33,7 @@
 荒れる [あれる]: to be stormy; to be rough​; to be ruined; to fall into ruin​; to be in a bad temper; to lose one’s temper​
 焦り [あせり]: impatience
 焦る [あせる]: to be in a hurry; to be impatient; to be flustered; to lose one’s presence of mind; to be surprised​
-足を運ぶ [あしっぉっはこぶ]: to go; to come; to turn out (at a meeting, event, etc.); to show up; to make your way to​
+足を運ぶ [あしっおっはこぶ]: to go; to come; to turn out (at a meeting, event, etc.); to show up; to make your way to​
 圧勝 [あっしょう]: complete victory​
 宛 [あて]: addressed to
 当てはまる [あてはまる]: to apply (a rule); to be applicable; to come under (a category); to fulfill; to hold true​
@@ -83,7 +83,7 @@
 地帯 [ちたい]: area; zone; belt (of land)​
 知的 [ちてき]: intellectual
 地点 [ちてん]: site; point on a map; spot​
-地球温暖化 [ちきゅうぉんだんか]: global warming​
+地球温暖化 [ちきゅうおんだんか]: global warming​
 直結 [ちょっけつ]: direct connection; direct link​
 直後 [ちょくご]: immediately following​
 直立 [ちょくりつ]: standing upright; standing straight
@@ -254,7 +254,7 @@
 張り切る [はりきる]: to be in high spirits; to be full of vigor (vigour); to be enthusiastic; to be eager; to stretch to breaking point​
 反論 [はんろん]: objection; refutation; rebuttal; counterargument​
 半数 [はんすう]: half the number
-腹を立てる [はらっぉったてる]: to take offense; to take offence; to get angry; to lose one’s temper
+腹を立てる [はらっおったてる]: to take offense; to take offence; to get angry; to lose one’s temper
 張り紙 [はりがみ]: paper patch; paper backing; poster; sticker; label​​
 挟む [はさむ]: to hold between (e.g. one’s fingers, chopsticks); to grip (from both sides)​; to put between; to sandwich between; to insert; to interpose​; to insert (e.g. a break into proceedings); to interpose (e.g. an objection); to interject; to throw in (e.g. a joke)​
 発散 [はっさん]: emission; emanation; radiation; diffusion; dispersion​; letting out (feelings); venting​
@@ -447,7 +447,7 @@
 上位 [じょうい]: superior (in rank); top; ranking​
 情景 [じょうけい]: spectacle; sight; scene​
 上級者 [じょうきゅうしゃ]: advanced student; advanced learner; advanced practitioner; experienced person​
-常温 [じょうぉん]: normal temperature; room temperature​
+常温 [じょうおん]: normal temperature; room temperature​
 上陸 [じょうりく]: landing; disembarkation; landfall​
 乗車 [じょうしゃ]: boarding (a train, bus, etc.); getting into (e.g. a taxi)​
 上司 [じょうし]: (one’s) superior; (one’s) boss; the higher-ups​
@@ -587,7 +587,7 @@
 かゆい: itchy
 飾り付け [かざりつけ]: decoration; arrangement​
 数々 [かずかず]: many; numerous; various; large number of​
-数多く [かずぉぉく]: in great numbers​
+数多く [かずおおく]: in great numbers​
 決着 [けっちゃく]: conclusion; decision; end; settlement​
 気配 [けはい]: indication; sign; hint; presence; trend​
 警備 [けいび]: defense; defence; guard; policing; security​
@@ -618,11 +618,11 @@
 決断 [けつだん]: decision; determination​
 険しい [けわしい]: precipitous; rugged; inaccessible; impregnable; steep​; grim; severe; stern​
 削る [けずる]: to shave (wood, leather, etc.); to sharpen (e.g. pencil); to plane; to whittle; to pare; to scrape off; to erode​; to cut down (budget, expenses, staff, time, etc.); to curtail; to reduce​
-気が重い [きっがっぉもい]: depressed; bummed out; down; heavy-hearted; heavy-spirited; feeling reluctant (to do)​
+気が重い [きっがっおもい]: depressed; bummed out; down; heavy-hearted; heavy-spirited; feeling reluctant (to do)​
 気が進まない [きっがっすすまない]: reluctant to; not inclined to; disinclined; unwilling​
-気を落とす [きっぉっぉとす]: to be discouraged; to be disheartened​
-気を使う [きっぉっつかう]: to pay attention to another’s needs; to attend to; to fuss about; to take into consideration​
-気を失う [きっぉっうしなう]: to lose consciousness; to faint; to black out​
+気を落とす [きっおっおとす]: to be discouraged; to be disheartened​
+気を使う [きっおっつかう]: to pay attention to another’s needs; to attend to; to fuss about; to take into consideration​
+気を失う [きっおっうしなう]: to lose consciousness; to faint; to black out​
 機敏 [きびん]: clever; shrewd; canny; smart; quick; prompt​
 規模 [きぼ]: scale; scope; plan; structure​
 気分転換 [きぶんてんかん]: change of pace; change of mood; (mental) break (e.g. going for a walk); refreshment
@@ -709,7 +709,7 @@
 項目 [こうもく]: item; heading; category; clause​; headword (in a dictionary, encyclopedia, etc.); entry
 高熱 [こうねつ]: high fever​
 光熱費 [こうねつひ]: cost of fuel and lighting; cost of heat and electricity; energy bill; utility cost​
-好悪 [こうぉ]: likes and dislikes​
+好悪 [こうお]: likes and dislikes​
 高齢 [こうれい]: advanced age; old age​
 高齢化 [こうれいか]: population ageing (aging)​
 高齢者 [こうれいしゃ]: old person; old people​
@@ -824,7 +824,7 @@
 乱れる [みだれる]: to be disordered; to be disarranged; to be disarrayed; to be disheveled; to be dishevelled​
 見出し [みだし]: heading; headline; title; caption​
 見張る [みはる]: to stand watch; to stand guard; to look out​
-見直す [みなぉす]: to look at again​; to re-examine; to get a better opinion of; to see in a more positive light​
+見直す [みなおす]: to look at again​; to re-examine; to get a better opinion of; to see in a more positive light​
 見慣れる [みなれる]: to become used to seeing; to be familiar with​
 民家 [みんか]: private house​
 見逃す [みのがす]: to miss; to overlook; to fail to notice​; to let pass (a matter); to overlook (e.g. a wrongdoing); to turn a blind eye to​
@@ -833,7 +833,7 @@
 密閉 [みっぺい]: shutting tightly; sealing something airtight​
 密接 [みっせつ]: close (relationship, connection, etc.); intimate; near​; close (together)​
 満たす [みたす]: to satisfy (conditions, one’s appetite, etc.); to meet (e.g. demands); to fulfill; to gratify​
-見通し [みとぉし]: unobstructed view; perspective; visibility; vista​; forecast; outlook; prospect; prediction​; insight; foresight​
+見通し [みとおし]: unobstructed view; perspective; visibility; vista​; forecast; outlook; prospect; prediction​; insight; foresight​
 見積書 [みつもりしょ]: written estimate; quotation; quote​
 見積もる [みつもる]: to estimate​
 見分ける [みわける]: to distinguish; to recognize; to recognise; to tell apart; to differentiate (both figuratively and visually)​
@@ -854,7 +854,7 @@
 盛り上がる [もりあがる]: to swell; to rise; to bulge; to be piled up​; to rouse; to get excited​
 もったいない: wasteful; a waste​; impious; profane; sacrilegious​; too good; more than one deserves; unworthy of​
 猛 [もう]: [っれっいっ]: extreme; severe​
-催し [もよぉし]: event; festivities; function; social gathering; auspices; opening; holding (a meeting)​
+催し [もよおし]: event; festivities; function; social gathering; auspices; opening; holding (a meeting)​
 最寄り [もより]: nearest; neighboring; nearby​
 無 [むっぶ]: (prefix) un-; non-​
 無縁 [むえん]: unrelated; irrelevant; indifferent​; without relations (esp. of a deceased person); having no surviving relatives​cho
@@ -928,58 +928,58 @@
 入居者 [にゅうきょしゃ]: tenant (esp. residential tenant in apartment block); occupant; inhabitant; inmate​
 入門 [にゅうもん]: entering an institution; beginning training​; primer; manual; introduction (to)​
 乳製品 [にゅうせいひん]: dairy products​
-覚え書き [ぉぼえがき]: memo; memorandum; note​
-落ち込む [ぉちこむ]: to feel down; to feel sad; to be depressed; to be in low spirits​; to be in a slump (business, economy, etc.); to be in an unfavourable condition​
-驚き [ぉどろき]: surprise; astonishment; wonder; amazement​
-補う [ぉぎなう]: to compensate for; to supplement​
-追い返す [ぉいかえす]: to drive away; to turn away; to send away; to repel; to repulse​
-追い求める [ぉいもとめる]: to pursue​
-追い越す [ぉいこす]: to pass (e.g. car); to overtake​; to surpass; to outstrip; to get ahead of; to outdistance​
-追い抜く [ぉいぬく]: to pass (a car); to overtake; to surpass; to outstrip; to outdistance; to outsail
+覚え書き [おぼえがき]: memo; memorandum; note​
+落ち込む [おちこむ]: to feel down; to feel sad; to be depressed; to be in low spirits​; to be in a slump (business, economy, etc.); to be in an unfavourable condition​
+驚き [おどろき]: surprise; astonishment; wonder; amazement​
+補う [おぎなう]: to compensate for; to supplement​
+追い返す [おいかえす]: to drive away; to turn away; to send away; to repel; to repulse​
+追い求める [おいもとめる]: to pursue​
+追い越す [おいこす]: to pass (e.g. car); to overtake​; to surpass; to outstrip; to get ahead of; to outdistance​
+追い抜く [おいぬく]: to pass (a car); to overtake; to surpass; to outstrip; to outdistance; to outsail
 おかしな: ridiculous; odd
-臆病 [ぉくびょう]: cowardly; timid; easily frightened​
-屋外 [ぉくがい]: outdoors; alfresco​
-遅れ [ぉくれ]: delay; lag; postponement; falling behind​
-奥底 [ぉくそこ]: depths; bottom (of one’s heart)​
-思いがけない [ぉもいがけない]: unexpected; contrary to expectations; by chance; casual​
-思い返す [ぉもいかえす]: to re-think; to think back upon; to change one’s mind
-思い切り [ぉもいきり]: with all one’s strength; with all one’s heart; to the utmost​; resolution; decisiveness​
-思い込み [ぉもいこみ]: wrong impression; subjective impression; assumption; prejudice​
-思い立つ [ぉもいたつ]: to set one’s mind on doing; to get the idea of doing; to make up one’s mind​
-思いつき [ぉもいつき]: plan; idea; suggestion​
-思いつく [ぉもいつく]: to think of; to hit upon; to come into one’s mind; to be struck with an idea​; to remember; to recall​
-思い浮かぶ [ぉもいうかぶ]: to occur to; to remind of; to come to mind​
-重苦しい [ぉもくるしい]: heavy; gloomy; awkward; cumbrous; oppressive; leaden​
-重み [ぉもみ]: weight
-お似合い [ぉにあい]: well-matched (esp. of a couple); becoming; suitable​
-恩恵 [ぉんけい]: grace; favor; favour; blessing; benefit​
-温厚 [ぉんこう]: gentle; mild-mannered​
-音量 [ぉんりょう]: volume (sound)​
-大通り [ぉぉどぉり]: main street
-大げさ [ぉぉげさ]: grandiose; exaggerated​
-大声 [ぉぉごえ]: loud voice
-大幅 [ぉぉはば]: big; large; drastic; substantial​
-多く [ぉぉく]: many; much; largely; abundantly; mostly​
-多目に [ぉぉめっに]: plenty; lots
-大手 [ぉぉて]: major company; big company​
-折り返し [ぉりかえし]: by return; (call or write back) without delay​
-折り畳む [ぉりたたむ]: to fold up; to fold into layers​
-収まる [ぉさまる]: to fit into (a box, frame, category, etc.); to be contained within; to fall within (e.g. a budget)​
-納める [ぉさめる]: to dedicate; to make an offering; to pay (fees)​
+臆病 [おくびょう]: cowardly; timid; easily frightened​
+屋外 [おくがい]: outdoors; alfresco​
+遅れ [おくれ]: delay; lag; postponement; falling behind​
+奥底 [おくそこ]: depths; bottom (of one’s heart)​
+思いがけない [おもいがけない]: unexpected; contrary to expectations; by chance; casual​
+思い返す [おもいかえす]: to re-think; to think back upon; to change one’s mind
+思い切り [おもいきり]: with all one’s strength; with all one’s heart; to the utmost​; resolution; decisiveness​
+思い込み [おもいこみ]: wrong impression; subjective impression; assumption; prejudice​
+思い立つ [おもいたつ]: to set one’s mind on doing; to get the idea of doing; to make up one’s mind​
+思いつき [おもいつき]: plan; idea; suggestion​
+思いつく [おもいつく]: to think of; to hit upon; to come into one’s mind; to be struck with an idea​; to remember; to recall​
+思い浮かぶ [おもいうかぶ]: to occur to; to remind of; to come to mind​
+重苦しい [おもくるしい]: heavy; gloomy; awkward; cumbrous; oppressive; leaden​
+重み [おもみ]: weight
+お似合い [おにあい]: well-matched (esp. of a couple); becoming; suitable​
+恩恵 [おんけい]: grace; favor; favour; blessing; benefit​
+温厚 [おんこう]: gentle; mild-mannered​
+音量 [おんりょう]: volume (sound)​
+大通り [おおどおり]: main street
+大げさ [おおげさ]: grandiose; exaggerated​
+大声 [おおごえ]: loud voice
+大幅 [おおはば]: big; large; drastic; substantial​
+多く [おおく]: many; much; largely; abundantly; mostly​
+多目に [おおめっに]: plenty; lots
+大手 [おおて]: major company; big company​
+折り返し [おりかえし]: by return; (call or write back) without delay​
+折り畳む [おりたたむ]: to fold up; to fold into layers​
+収まる [おさまる]: to fit into (a box, frame, category, etc.); to be contained within; to fall within (e.g. a budget)​
+納める [おさめる]: to dedicate; to make an offering; to pay (fees)​
 おしゃれ: smartly dressed; stylish; fashion-conscious​; someone smartly dressed​; to dress up; to be fashionable
-惜しい [ぉしい]: regrettable; disappointing; unfortunate​; precious; dear; valuable​
-押し付ける [ぉしつける]: to press; to push; to force​; to foist on (task, responsibility); to impose (one’s will)​
-教わる [ぉそわる]: to be taught (by); to learn from​
-お勧め [ぉすすめ]: recommendation; advice; suggestion; encouragement​
-お手本 [ぉてほん]: example; role model
-お手数 [ぉてすう]: trouble; bother​
-お得 [ぉとく]: economical; bargain; good value; good-value​
-大人しい [ぉとなしい]: obedient; docile; quiet​
-訪れる [ぉとずれる]: to visit; to call on​; to arrive; to come; to appear​
-欧米 [ぉうべい]: Europe and America; the West​
-応募者 [ぉうぼしゃ]: applicant
-応答 [ぉうとう]: reply; answer; response​
-親子 [ぉやこ]: parent and child​
+惜しい [おしい]: regrettable; disappointing; unfortunate​; precious; dear; valuable​
+押し付ける [おしつける]: to press; to push; to force​; to foist on (task, responsibility); to impose (one’s will)​
+教わる [おそわる]: to be taught (by); to learn from​
+お勧め [おすすめ]: recommendation; advice; suggestion; encouragement​
+お手本 [おてほん]: example; role model
+お手数 [おてすう]: trouble; bother​
+お得 [おとく]: economical; bargain; good value; good-value​
+大人しい [おとなしい]: obedient; docile; quiet​
+訪れる [おとずれる]: to visit; to call on​; to arrive; to come; to appear​
+欧米 [おうべい]: Europe and America; the West​
+応募者 [おうぼしゃ]: applicant
+応答 [おうとう]: reply; answer; response​
+親子 [おやこ]: parent and child​
 および: and; as well as​
 来日 [らいにち]: arrival in Japan; coming to Japan; visit to Japan​
 来学期 [らいがっき]: next semester
@@ -1113,7 +1113,7 @@
 接続 [せつぞく]: connection; attachment; union; join; joint; link
 専用 [せんっよう]: exclusive use; personal use; dedicated​
 専属 [せんぞく]: exclusive; attached to; specialist​
-背負う [せぉう]: to carry on one’s back​; to be burdened with; to take responsibility for​
+背負う [せおう]: to carry on one’s back​; to be burdened with; to take responsibility for​
 設定 [せってい]: establishment; creation; posing (a problem); setting (movie, novel, etc.); scene​; options setting; preference settings; configuration; setup
 説得力 [せっとくりょく]: persuasiveness; powers of persuasion; cogency​
 節電 [せつでん]: conservation of electricity; brownout​
@@ -1265,7 +1265,7 @@
 倉庫 [そうこ]: storehouse; warehouse; godown​
 送客 [そうきゃく]: sending customers (somebody’s way)​
 総務 [そうむ]: general affairs; general business; manager; director; adjutant general​
-相応 [そうぉう]: suitable; appropriate; befitting; becoming; adequate; reasonable; proper​
+相応 [そうおう]: suitable; appropriate; befitting; becoming; adequate; reasonable; proper​
 創立 [そうりつ]: establishment; founding; organization; organisation​
 送料 [そうりょう]: postage; carriage; shipping charge​
 創作 [そうさく]: creation; production; creative work (novel, film, etc.); original work; (creative) writing​; fabrication; fiction; invention​
@@ -1288,7 +1288,7 @@
 住まい [すまい]: dwelling; house; residence; address​
 済ます [すます]: to finish; to get it over with; to conclude​; to settle; to pay back​
 隅々 [すみずみ]: nooks; corners​
-素直 [すなぉ]: obedient; meek; docile; unaffected​; honest; frank; upfront (about one’s feelings)​
+素直 [すなお]: obedient; meek; docile; unaffected​; honest; frank; upfront (about one’s feelings)​
 すらすら: smoothly; easily; readily
 数値 [すうち]: numerical value; numerics​; reading (on a meter, etc.)​
 数分 [すうふん]: several minutes; a few minutes​
@@ -1315,7 +1315,7 @@
 体験 [たいけん]: personal experience; physical experience; one’s own experience​
 対抗 [たいこう]: opposition; antagonism​
 体内 [たいない]: interior of the body​
-対応 [たいぉう]: correspondence (to); equivalence​
+対応 [たいおう]: correspondence (to); equivalence​
 対立 [たいりつ]: suitability; coordination; matching; being appropriate (for)​
 対策 [たいさく]: measure; provision; step; countermeasure; counterplan; countermove​
 体制 [たいせい]: order; system; structure; set-up; organization; organisation​
@@ -1419,7 +1419,7 @@
 得点 [とくてん]: scoring; score; points made; marks obtained; goals; runs
 共働き [ともばたらき]: (husband and wife) both working; dual income​
 伴う [ともなう]: to accompany; to go hand in hand with; to be consequent upon; to be accompanied by; to bring with; to take with; to be involved in​
-遠回り [とぉまわり]: detour; roundabout way​
+遠回り [とおまわり]: detour; roundabout way​
 取扱 [とりあつかい]: treatment; service; handling; management​
 取り入れる [とりいれる]: to harvest; to reap​; to take in; to gather in​; to adopt (e.g. idea); to accept (e.g. advice); to introduce
 取り組み [とりくみ]: bout (in sports, etc.); match; effort; initiative; dealing with; grappling with; wrestling with​
@@ -1525,7 +1525,7 @@
 薬品 [やくひん]: medicine; chemicals​
 役目 [やくめ]: duty; role; function
 約束事 [やくそくごと]: promise; vow; engagement​; convention; rule; resolution​
-やむを得ない [やむっぉっえない]: cannot be helped; unavoidable​
+やむを得ない [やむっおっえない]: cannot be helped; unavoidable​
 やり甲斐 [やりがい]: being worth doing
 養う [やしなう]: to support; to maintain; to provide for​; to bring up; to raise; to rear; to feed​; to cultivate (a habit, a quality, etc.); to develop; to build up; to foster​
 安値 [やすね]: low price​
@@ -1543,7 +1543,7 @@
 よっぽど: very; greatly; much; to a large extent; quite
 寄り道 [よりみち]: dropping in on the way; stopping off at; making a side trip​; going the long way round; making a detour​
 夜型 [よるがた]: nocturnal (person)​
-夜遅く [よるぉそく]: late at night; at a late hour​
+夜遅く [よるおそく]: late at night; at a late hour​
 予選 [よせん]: preliminary contest; qualifying round; trial; heat; primary​
 寄せる [よせる]: to come near; to let someone approach​; to bring near; to bring together; to collect; to gather​; to press; to push; to force​
 予定表 [よていひょう]: schedule; program; programme; itinerary​
