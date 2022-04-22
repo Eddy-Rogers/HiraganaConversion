@@ -22,7 +22,7 @@
 雨水 [あまみずっうすい]: rain water
 甘やかす [あまやかす]: to pamper; to spoil​
 案外 [あんがい]: unexpectedly; surprisingly​; unexpected; unanticipated; unforeseen; surprising
-安易 [あんっい]: easy; simple​; easygoing; lighthearted; simplistic; irresponsible; careless; quick (to do)​
+安易 [あんい]: easy; simple​; easygoing; lighthearted; simplistic; irresponsible; careless; quick (to do)​
 安価 [あんか]: low-priced; cheap; inexpensive​
 仰向け [あおむけ]: face up
 荒い [あらい]: rough; wild; violent; rude; coarse; harsh; fierce; heavy (e.g. breathing)​; immoderate; extravagant; reckless​
@@ -33,7 +33,7 @@
 荒れる [あれる]: to be stormy; to be rough​; to be ruined; to fall into ruin​; to be in a bad temper; to lose one’s temper​
 焦り [あせり]: impatience
 焦る [あせる]: to be in a hurry; to be impatient; to be flustered; to lose one’s presence of mind; to be surprised​
-足を運ぶ [あしっおっはこぶ]: to go; to come; to turn out (at a meeting, event, etc.); to show up; to make your way to​
+足を運ぶ [あしをはこぶ]: to go; to come; to turn out (at a meeting, event, etc.); to show up; to make your way to​
 圧勝 [あっしょう]: complete victory​
 宛 [あて]: addressed to
 当てはまる [あてはまる]: to apply (a rule); to be applicable; to come under (a category); to fulfill; to hold true​
@@ -254,7 +254,7 @@
 張り切る [はりきる]: to be in high spirits; to be full of vigor (vigour); to be enthusiastic; to be eager; to stretch to breaking point​
 反論 [はんろん]: objection; refutation; rebuttal; counterargument​
 半数 [はんすう]: half the number
-腹を立てる [はらっおったてる]: to take offense; to take offence; to get angry; to lose one’s temper
+腹を立てる [はらをたてる]: to take offense; to take offence; to get angry; to lose one’s temper
 張り紙 [はりがみ]: paper patch; paper backing; poster; sticker; label​​
 挟む [はさむ]: to hold between (e.g. one’s fingers, chopsticks); to grip (from both sides)​; to put between; to sandwich between; to insert; to interpose​; to insert (e.g. a break into proceedings); to interpose (e.g. an objection); to interject; to throw in (e.g. a joke)​
 発散 [はっさん]: emission; emanation; radiation; diffusion; dispersion​; letting out (feelings); venting​
@@ -458,7 +458,7 @@
 受講 [じゅこう]: taking (attending) lectures​
 塾 [じゅく]: coaching school; cramming school; juku​
 寿命 [じゅみょう]: life span​
-順位 [じゅんっい]: order; rank; position (e.g. in a race); precedence​
+順位 [じゅんい]: order; rank; position (e.g. in a race); precedence​
 循環 [じゅんかん]: circulation; rotation; cycle; loop​
 順に [じゅんっに]: in order; in turn; one by one​
 順序 [じゅんじょ]: order; sequence; procedure​
@@ -620,9 +620,9 @@
 削る [けずる]: to shave (wood, leather, etc.); to sharpen (e.g. pencil); to plane; to whittle; to pare; to scrape off; to erode​; to cut down (budget, expenses, staff, time, etc.); to curtail; to reduce​
 気が重い [きっがっおもい]: depressed; bummed out; down; heavy-hearted; heavy-spirited; feeling reluctant (to do)​
 気が進まない [きっがっすすまない]: reluctant to; not inclined to; disinclined; unwilling​
-気を落とす [きっおっおとす]: to be discouraged; to be disheartened​
-気を使う [きっおっつかう]: to pay attention to another’s needs; to attend to; to fuss about; to take into consideration​
-気を失う [きっおっうしなう]: to lose consciousness; to faint; to black out​
+気を落とす [きをおとす]: to be discouraged; to be disheartened​
+気を使う [きをつかう]: to pay attention to another’s needs; to attend to; to fuss about; to take into consideration​
+気を失う [きをうしなう]: to lose consciousness; to faint; to black out​
 機敏 [きびん]: clever; shrewd; canny; smart; quick; prompt​
 規模 [きぼ]: scale; scope; plan; structure​
 気分転換 [きぶんてんかん]: change of pace; change of mood; (mental) break (e.g. going for a walk); refreshment
@@ -787,7 +787,7 @@
 巻き込む [まきこむ]: to roll up; to enfold; to swallow up​; to involve; to drag into​
 まく: to scatter; to sprinkle; to strew​
 真似る [まねる]: to mimic; to imitate​
-満員 [まんっいん]: full house; no vacancy; sold out; standing room only; full (of people); crowded​
+満員 [まんいん]: full house; no vacancy; sold out; standing room only; full (of people); crowded​
 満足度 [まんぞくど]: (degree of) satisfaction​
 稀 [まれ]: rare, seldom
 真っ先 [まっさき]: the head; the foremost; beginning; the very front​
@@ -1525,7 +1525,7 @@
 薬品 [やくひん]: medicine; chemicals​
 役目 [やくめ]: duty; role; function
 約束事 [やくそくごと]: promise; vow; engagement​; convention; rule; resolution​
-やむを得ない [やむっおっえない]: cannot be helped; unavoidable​
+やむを得ない [やむをえない]: cannot be helped; unavoidable​
 やり甲斐 [やりがい]: being worth doing
 養う [やしなう]: to support; to maintain; to provide for​; to bring up; to raise; to rear; to feed​; to cultivate (a habit, a quality, etc.); to develop; to build up; to foster​
 安値 [やすね]: low price​

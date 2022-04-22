@@ -1,6 +1,7 @@
 import codecs
 # coding: utf8
 
+
 def check_vowel(char):
     return char == 'a' or char == 'i' or char == 'u' or char == 'e' or char == 'o'
 
@@ -26,7 +27,7 @@ def convert_hiragana(inputfilearg):
 
     for line in inputfile:
         # Start from the end index, continue until we have processed index 0
-        outputline = "";
+        outputline = ""
         index = len(line) - 1
         while index >= 0:
             if not hiraganaconversion:
@@ -62,9 +63,14 @@ def convert_hiragana(inputfilearg):
                         else:
                             raise UnconvertedSubstringException(line[index - 2: index + 1])
                     else:
+                        # TO:DO :: Both the 'n' and " o " special cases could be included as conversions in the dict
+                        # This solution would require a new check vowel (?) function that would pick those scenarios up.
                         if line[index].lower() == 'n':
                             outputline = 'ん' + outputline
                             index -= 1
+                        elif index >= 2 and line[index - 2: index + 1] == " o ":
+                            outputline = 'を' + outputline
+                            index -= 3
                         else:
                             outputline = 'っ' + outputline
                             index -= 1
@@ -116,7 +122,6 @@ hiraganaDict = {
     'yu': 'ゆ',
     'yo': 'よ',
     'wa': 'わ',
-    'wo/o': 'を',
     'n': 'ん',
     'ga': 'が',
     'gi': 'ぎ',
@@ -175,5 +180,6 @@ hiraganaDict = {
     'byo': 'びょ',
     'pya': 'ぴゃ',
     'pyu': 'ぴゅ',
-    'pyo': 'ぴょ'
+    'pyo': 'ぴょ',
+    'n’i': 'んい'
 }
