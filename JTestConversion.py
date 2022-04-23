@@ -6,4 +6,4 @@ if __name__ == '__main__':
     #if len(sys.argv) != 2:
         #print("Unexpected Number of Arguments: " + str(len(sys.argv)))
     #inputfilearg = str(sys.argv[1])
-    HiraganaLib.convert_hiragana('N2.txt')
+    HiraganaLib.convert_hiragana('N4.txt')

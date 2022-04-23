@@ -33,14 +33,14 @@ def convert_hiragana(inputfilearg):
             if not hiraganaconversion:
                 if line[index - 1: index + 1] == "):":
                     hiraganaconversion = True
-                    outputline = ']:' + outputline
+                    outputline = ']' + outputline
                     index -= 2
                 else:
                     outputline = line[index] + outputline
                     index -= 1
             else:
                 if line[index].lower() == '(':
-                    outputline = '[' + outputline
+                    outputline = ':[' + outputline
                     hiraganaconversion = False
                     index -= 1
                 else:
