@@ -205,8 +205,8 @@
 米 (kome): rice
 込む (komu): to be crowded, to be packed​
 今度 (kondo): this time, next time
-この間 (kono aida): the other day, lately
-この頃 (kono goro): recently, nowadays
+この間 (konoaida): the other day, lately
+この頃 (konogoro): recently, nowadays
 今夜 (kon’ya): this evening, tonight​
 これから (kore kara): after this
 故障 (koshou): breakdown, out of order

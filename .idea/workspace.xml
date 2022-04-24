@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b11e7545-5be4-4a86-a41e-34879b1dc788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/N1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/N3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/N4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/N5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HiraganaLib.py" beforeDir="false" afterPath="$PROJECT_DIR$/HiraganaLib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JTestConversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/JTestConversion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conversion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/conversion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/N4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/N4.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
