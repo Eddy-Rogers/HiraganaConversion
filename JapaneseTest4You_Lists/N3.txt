@@ -9,20 +9,20 @@
 明かり (akari): light, illumination, glow
 明ける (akeru): to dawn, to end (of a period, season)
 空き (aki): space, room, emptiness
-空き家 (akiya): vacant house, unoccupied house​
+空き家 (akiya): vacant house, unoccupied house
 明らか (akiraka): obvious, evident, clear
 諦める (akirameru): to give up, to abandon
 飽きる (akiru): to get tired of
 悪魔 (akuma): demon, evil
 握手 (akushu): handshake
 余る (amaru): to remain, to be left over
-編む (amu): to knit, to braid​
+編む (amu): to knit, to braid
 案 (an): idea, plan, thought
 汗 (ase): sweat, perspiration
 穴 (ana): hole, deficit, vacancy
 暗記 (anki): memorization
 安定 (antei): stability, equilibrium
-粗い (arai): coarse, rough​
+粗い (arai): coarse, rough
 嵐 (arashi): storm, tempest
 新た (arata): new, fresh, novel
 現れる (arawareru): to appear, to come in sight
@@ -33,11 +33,11 @@
 値 (atai): price, cost
 辺り (atari): neighborhood, nearby
 当たる (ataru): to be hit, to strike
-温める (atatameru): to warm, to heat​
+温める (atatameru): to warm, to heat
 跡 (ato): trace, tracks, mark
 扱う (atsukau): to deal with, to treat
 集まり (atsumari): gathering, meeting
-慌てる (awateru): to panic​, to rush
+慌てる (awateru): to panic, to rush
 誤り (ayamari): error, mistake, slip
 泡 (awa): bubble, foam
 哀れ (aware): pity, sorrow, grief
@@ -50,26 +50,26 @@
 場面 (bamen): scene, setting
 ばらばら: scattered, in pieces
 罰する (bassuru): to punish, to penalize
-弁護士 (bengoshi): lawyer, attorney​
-別々 (betsubetsu): separately, individually​
+弁護士 (bengoshi): lawyer, attorney
+別々 (betsubetsu): separately, individually
 美人 (bijin): beautiful woman
 びっくり: to be surprised
 微妙 (bimyou): delicate, subtle
 瓶 (bin): bottle, jar
 便 (bin): mail, post, flight
 ぼんやり: absentmindedly
-募集 (boshuu): recruitment, taking applications​, raising (funds)
+募集 (boshuu): recruitment, taking applications, raising (funds)
 棒 (bou): pole, rod, stick
 冒険 (bouken): adventure, risk
 部分 (bubun): portion, section, part
-部品 (buhin): parts, components​
+部品 (buhin): parts, components
 無事 (buji): safety, peace
 武器 (buki): weapon, arms
 物価 (bukka): prices of commodities
 文 (bun): sentence
 分 (bun): part, segment, share
 文明 (bunmei): civilization
-分類 (bunrui): categorization, sorting​
+分類 (bunrui): categorization, sorting
 分析 (bunseki): analysis
 文章 (bunshou): essay, article, composition
 分野 (bun’ya): field, sphere
@@ -91,7 +91,7 @@
 知事 (chiji): prefectural governor
 地下 (chika): basement, cellar
 近頃 (chikagoro): lately, recently
-近道 (chikamichi): short way, shortcut​
+近道 (chikamichi): short way, shortcut
 力強い (chikarazuyoi): powerful, strong
 遅刻 (chikoku): lateness, late coming
 地区 (chiku): district, section, sector
@@ -115,19 +115,19 @@
 駐車 (chuusha): parking
 中止 (chuushi): suspension, stoppage
 中心 (chuushin): center, middle, core
-中心地 (chuushinchi): center, metropolis​
+中心地 (chuushinchi): center, metropolis
 昼食 (chuushoku): lunch, midday meal
 中央 (chuuou): centre, middle
-代 (dai): cost, price​, generation
+代 (dai): cost, price, generation
 大部分 (daibubun): most part, majority
 代表 (daihyou): representative
-代表者 (daihyousha): representative, delegate​
+代表者 (daihyousha): representative, delegate
 大臣 (daijin): cabinet minister
 代金 (daikin): price, payment, cost
 代理 (dairi): representation, agency
-大成功 (daiseikou): huge success​
-大小 (daishou): sizes (various), large and small​
-大都会 (daitokai): metropolis, big city​
+大成功 (daiseikou): huge success
+大小 (daishou): sizes (various), large and small
+大都会 (daitokai): metropolis, big city
 大統領 (daitouryou): president, chief executive
 黙る (damaru): to be silent
 段 (dan): steps, stair, grade, rank
@@ -139,13 +139,13 @@
 出会い (deai): meeting, encounter
 出会う (deau): to meet (by chance)
 出来事 (dekigoto): incident, affair
-電池 (denchi): battery, cell​
+電池 (denchi): battery, cell
 伝言 (dengon): verbal message
 電球 (denkyuu): light bulb
 電子 (denshi): electron
 電子レンジ (denshi renji): microwave oven
 伝統 (dentou): tradition, convention
-度 (do): degree, counter for occurrences​
+度 (do): degree, counter for occurrences
 どきどき: to beat fast (of one’s heart)
 毒 (doku): poison, toxicant
 独立 (dokuritsu): independence
@@ -158,7 +158,7 @@
 当時 (touji): at that time, in those days
 同時 (douji): simultaneous, concurrent
 銅貨 (douka): copper coin
-どうか: please, one way or another​
+どうか: please, one way or another
 同級生 (doukyuusei): classmate
 道路 (douro): road, highway
 同僚 (douryou): coworker, colleague
@@ -179,7 +179,7 @@
 演技 (engi): acting, performance
 援助 (enjo): assistance, aid
 延期 (enki): postponement
-遠足 (ensoku): excursion, outing, trip​
+遠足 (ensoku): excursion, outing, trip
 演奏 (ensou): musical performance
 演説 (enzetsu): speech, address
 得る (eru): to get, to gain, to acquire
@@ -217,19 +217,19 @@
 風景 (fuukei): scenery, landscape
 不要 (fuyou): unnecessary, unneeded
 不用 (fuyou): disused, unused
-不用品 (fuyouhin): disused article​
+不用品 (fuyouhin): disused article
 害 (gai): injury, harm, damage
-外国語 (gaikokugo): foreign language​
-外国産 (gaikokusan): of foreign manufacture​
+外国語 (gaikokugo): foreign language
+外国産 (gaikokusan): of foreign manufacture
 外交 (gaikou): diplomacy
-外食 (gaishoku): eating out, dining out​
+外食 (gaishoku): eating out, dining out
 外出 (gaishutsu): going out
 画家 (gaka): painter, artist
 がっかり (gakkari): feel disappointed
 学期 (gakki): school term
-楽器 (gakki): musical instrument​
+楽器 (gakki): musical instrument
 学 (gaku): learning, scholarship
-学部 (gakubu): department of a university​
+学部 (gakubu): department of a university
 学問 (gakumon): learning, study
 学者 (gakusha): scholar
 学習 (gakushuu): study, learning
@@ -283,7 +283,7 @@
 母親 (hahaoya): mother
 灰 (hai): ashes
 掃く (haku): to sweep, to brush
-歯磨き (hamigaki): brushing one’s teeth​
+歯磨き (hamigaki): brushing one’s teeth
 配送 (haisou): delivery
 配達 (haitatsu): delivery, distribution
 俳優 (haiyuu): actor, actress
@@ -303,15 +303,15 @@
 話しかける (hanashikakeru): to start a conversation
 離す (hanasu): to separate, to part
 放す (hanasu): to release, to let go
-花束 (hanataba): bunch of flowers, bouquet​
-花屋 (hanaya): florist, flower shop​
+花束 (hanataba): bunch of flowers, bouquet
+花屋 (hanaya): florist, flower shop
 羽 (hane): feather, down
 販売 (hanbai): sales, selling
 判断 (handan): judgment, decision
 範囲 (han’i): range, scope, extent
 反抗 (hankou): opposition, resistance
 犯人 (hannin): offender, criminal
-半年 (hantoshi): half year​
+半年 (hantoshi): half year
 犯罪 (hanzai): crime, offense
 発表 (happyou): announcement
 腹 (hara): abdomen, stomach
@@ -327,21 +327,21 @@
 働き (hataraki): work, labor
 発達 (hattatsu): development, growth
 発展 (hatten): development, growth
-発売 (hatsubai): sale, launch (product)​
+発売 (hatsubai): sale, launch (product)
 発明 (hatsumei): invention
 早めに (hayame ni): ahead of time
 外す (hazusu): to undo, to remove
 塀 (hei): wall, fence
-平方メートル (heihou meetoru): square meter​
+平方メートル (heihou meetoru): square meter
 平日 (heijitsu): weekday, ordinary days
 平均 (heikin): average, mean
 平和 (heiwa): peace, harmony
 変化 (henka): change, alteration
 変更 (henkou): change, modification
-返却 (henkyaku): return of something, repayment​
+返却 (henkyaku): return of something, repayment
 減らす (herasu): to abate, to decrease
 減る (heru): to decrease, to diminish
-費 (hi): cost, expense​
+費 (hi): cost, expense
 冷える (hieru): to grow cold, to get chilly
 被害 (higai): (suffering) damage, harm
 悲劇 (higeki): tragedy
@@ -356,14 +356,14 @@
 紐 (himo): string, cord
 引っ張る (hipparu): to pull, to draw
 広がる (hirogaru): to spread out, to extend
-昼寝 (hirune): nap (afternoon), siesta​
+昼寝 (hirune): nap (afternoon), siesta
 必死 (hisshi): frantic, desperate
 額 (hitai): forehead, brow
 否定 (hitei): negation, denial
 人々 (hitobito): people; men and women
 人込み (hitogomi): crowd of people
 一言 (hitokoto): single word, a few words
-一人暮らし (hitorigurashi): living by oneself, living alone​
+一人暮らし (hitorigurashi): living by oneself, living alone
 等しい (hitoshii): equal
 費用 (hiyou): cost, expense
 膝 (hiza): knee, lap
@@ -374,13 +374,13 @@
 微笑む (hohoemu): to smile
 誇り (hokori): pride, boast
 埃 (hokori): dust
-歩行者 (hokousha): pedestrian, walker​
+歩行者 (hokousha): pedestrian, walker
 骨 (hone): bone
 本気 (honki): seriousness, earnestness, truth
 本物 (honmono): genuine article
 本人 (honnin): the person himself
 炎 (honoo): flame, blaze
-本屋 (hon’ya): bookstore, bookshop​
+本屋 (hon’ya): bookstore, bookshop
 頬 (hoo): cheek (of face)
 掘る (horu): to dig, to excavate
 保証 (hoshou): guarantee, security
@@ -410,7 +410,7 @@
 一部 (ichibu): one part, one portion
 一度に (ichido ni): all at once
 一時 (ichiji): time, moment
-一応 (ichiou): just in case​, pretty much
+一応 (ichiou): just in case, pretty much
 一流 (ichiryuu): first-class, top grade
 偉大 (idai): greatness
 抱く (idaku): to embrace
@@ -432,9 +432,9 @@
 稲 (ine): rice-plant
 居眠り (inemuri): nodding off, dozing
 命 (inochi): life, life force
-飲料 (inryou): beverage, drink​
+飲料 (inryou): beverage, drink
 印刷 (insatsu): printing
-飲食 (inshoku): food and drink, eating and drinking​
+飲食 (inshoku): food and drink, eating and drinking
 印象 (inshou): impression
 引退 (intai): retire
 引用 (in’you): quotation, citation
@@ -443,7 +443,7 @@
 以来 (irai): since, henceforth
 依頼 (irai): request, commission
 苛々 (iraira): getting nervous, irritation
-衣類 (irui): clothes, garments​
+衣類 (irui): clothes, garments
 医療 (iryou): medical care
 医師 (ishi): doctor, physician
 意思 (ishi): intention, purpose
@@ -464,31 +464,31 @@
 岩 (iwa): rock
 言わば (iwaba): so to speak
 祝う (iwau): to congratulate, to celebrate
-嫌がる (iyagaru): to hate, to dislike​
+嫌がる (iyagaru): to hate, to dislike
 以前 (izen): ago, since, before
 泉 (izumi): spring, fountain
 自動 (jidou): automatic
-自動販売機 (jidouhanbaiki): vending machine​
+自動販売機 (jidouhanbaiki): vending machine
 自動車 (jidousha): automobile
 事実 (jijitsu): fact, truth, reality
 事情 (jijou): circumstances
 直に (jika ni): directly, in person
 事件 (jiken): event, affair, accident
 時期 (jiki): time, season, period
-実家 (jikka): (one’s parents’) home​
+実家 (jikka): (one’s parents’) home
 実験 (jikken): experiment
 実行 (jikkou): execution, practice
 時刻 (jikoku): instant, time, moment
 自慢 (jiman): pride, boast
-地面 (jimen): ground; earth’s surface​
+地面 (jimen): ground; earth’s surface
 事務 (jimu): business, office work
-事務室 (jimushitsu): office (room)​
+事務室 (jimushitsu): office (room)
 人物 (jinbutsu): person, character, figure
 人工 (jinkou): artificial, man-made
 人類 (jinrui): mankind, humanity
 生 (jinsei): life
 人種 (jinshu): race (of people), type of person
-時差 (jisa): time difference​
+時差 (jisa): time difference
 自殺 (jisatsu): suicide
 自身 (jishin): by oneself, personally
 自信 (jishin): self-confidence
@@ -496,19 +496,19 @@
 実施 (jisshi): enforcement, implementation
 実習 (jisshuu): practice (in the field)
 事態 (jitai): situation
-自宅 (jitaku): one’s home, one’s house​
+自宅 (jitaku): one’s home, one’s house
 実現 (jitsugen): implementation
 実力 (jitsuryoku): (real) ability, true strength
 実は (jitsu wa): as a matter of fact
-実用 (jitsuyou): practical use, utility​
+実用 (jitsuyou): practical use, utility
 徐々 (jojo): gradually, steadily
 女子 (joshi): woman, girl
 助手 (joshu): helper, assistant
 女王 (joou): queen
 丈夫 (joubu): healthy, robust, strong
 冗談 (joudan): jest, joke
-上下 (jouge): up and down​, top and bottom
-上品 (jouhin): elegant, polished​
+上下 (jouge): up and down, top and bottom
+上品 (jouhin): elegant, polished
 情報 (jouhou): information, news
 条件 (jouken): conditions, terms
 上空 (joukuu): sky, upper air
@@ -546,10 +546,10 @@
 海外 (kaigai): foreign, abroad
 会員 (kaiin): member
 会計 (kaikei): account, finance
-改札 (kaisatsu): ticket gate, ticket barrier​
+改札 (kaisatsu): ticket gate, ticket barrier
 解決 (kaiketsu): settlement, solution
 快晴 (kaisei): clear weather, cloudless weather
-会社員 (kaishain): company employee​
+会社員 (kaishain): company employee
 解釈 (kaishaku): explanation, interpretation
 開始 (kaishi): start, beginning
 回収 (kaishuu): collection, retrieval
@@ -574,7 +574,7 @@
 活気 (kakki): energy, liveliness
 過去 (kako): the past, bygone days
 囲む (kakomu): to surround, to encircle
-各地 (kakuchi): every place, various places​
+各地 (kakuchi): every place, various places
 拡大 (kakudai): magnification
 覚悟 (kakugo): resolution, readiness
 確実 (kakujitsu): certainty, reliability
@@ -605,7 +605,7 @@
 勘定 (kanjou): calculation, counting
 感情 (kanjou): emotion, feeling
 感覚 (kankaku): sense, sensation, feeling
-間隔 (kankaku): space, interval​
+間隔 (kankaku): space, interval
 観光 (kankou): sightseeing
 観光客 (kankoukyaku): tourist
 観客 (kankyaku): audience, spectator
@@ -639,7 +639,7 @@
 肩 (kata): shoulder
 方々 (katagata): they (people), you (plural)
 片方 (katahou): one of a pair, one side
-固まる (katamaru): to harden, to solidify​
+固まる (katamaru): to harden, to solidify
 刀 (katana): sword, katana
 語り合う (katariau): to talk together
 語る (kataru): to talk about
@@ -680,7 +680,7 @@
 見解 (kenkai): opinion, point of view
 健康 (kenkou): health
 研究者 (kenkyuusha): researcher
-研究所 (kenkyuusho): research institute, laboratory​
+研究所 (kenkyuusho): research institute, laboratory
 憲法 (kenpou): constitution
 権利 (kenri): right, privilege
 検査 (kensa): inspection, examination
@@ -692,7 +692,7 @@
 化粧 (keshou): make-up, cosmetics
 決定 (kettei): decision, determination
 欠点 (ketten): weak point, weakness
-血圧 (ketsuatsu): blood pressure​
+血圧 (ketsuatsu): blood pressure
 血液 (ketsueki): blood
 血液型 (ketsuekigata): blood type
 結論 (ketsuron): conclusion
@@ -712,7 +712,7 @@
 機械 (kikai): machine, mechanism
 期間 (kikan): period, term
 機関 (kikan): engine, agency, organization
-帰国 (kikoku): return to one’s country​
+帰国 (kikoku): return to one’s country
 気候 (kikou): climate
 効く (kiku): to be effective
 決まり (kimari): rule, settlement
@@ -721,7 +721,7 @@
 緊張 (kinchou): tension, nervousness
 近代 (kindai): present day
 禁煙 (kin’en): no smoking
-記念品 (kinenhin): souvenir, memento​
+記念品 (kinenhin): souvenir, memento
 金額 (kingaku): amount of money
 気になる (ki ni naru): to bother one, to worry about
 気にする (ki ni suru): to mind, to care about
@@ -743,7 +743,7 @@
 記録 (kiroku): record, document
 記者 (kisha): reporter
 岸 (kishi): bank, coast, shore
-基礎 (kiso): foundation, basis​
+基礎 (kiso): foundation, basis
 期待 (kitai): expectation, hope
 帰宅 (kitaku): returning home
 際 (kiwa): edge, brink, verge
@@ -788,7 +788,7 @@
 異なる (kotonaru): to differ, to vary
 断る (kotowaru): to refuse, to reject
 諺 (kotowaza): proverb, maxim
-好物 (koubutsu): favourite food​
+好物 (koubutsu): favourite food
 行動 (koudou): action, conduct, behavior
 講演 (kouen): lecture, address, speech
 幸福 (koufuku): happiness
@@ -796,7 +796,7 @@
 公平 (kouhei): fairness, justice
 候補 (kouho): candidate
 後方 (kouhou): behind, in the rear
-工事 (kouji): construction work​
+工事 (kouji): construction work
 効果 (kouka): effect, effectiveness
 硬貨 (kouka): coin
 高価 (kouka): high price
@@ -819,7 +819,7 @@
 小包 (kozutsumi): parcel, package
 配る (kubaru): to distribute, to hand out
 区別 (kubetsu): distinction, differentiation
-工夫 (kufuu): solving ingeniously​
+工夫 (kufuu): solving ingeniously
 組 (kumi): set, group
 組合 (kumiai): association, union
 組み立てる (kumitateru): to assemble, to set up
@@ -851,7 +851,7 @@
 巨大 (kyodai): huge, gigantic
 許可 (kyoka): permission, approval
 局 (kyoku): bureau, department
-距離 (kyori): distance, range​
+距離 (kyori): distance, range
 強調 (kyouchou): emphasis, highlight
 共同 (kyoudou): doing together, joint
 恐怖 (kyoufu): fear, dread, dismay
@@ -864,18 +864,18 @@
 強力 (kyouryoku): powerful, strong
 教師 (kyoushi): teacher (classroom)
 共通 (kyoutsuu): commonness, community
-共通点 (kyoutsuuten): point in common, common feature​
+共通点 (kyoutsuuten): point in common, common feature
 級 (kyuu): class (school, grade, rank
 急に (kyuu ni): swiftly, rapidly
 急激 (kyuugeki): sudden, radical
-休日 (kyuujitsu): holiday, day off​
+休日 (kyuujitsu): holiday, day off
 救助 (kyuujo): relief, aid
 休暇 (kyuuka): holiday, day off
 休憩 (kyuukei): rest, break, recess
 給料 (kyuuryou): salary, wages
 吸収 (kyuushuu): absorption
 急速 (kyuusoku): rapid (progress)
-眩しい (mabushii): dazzling, radiant​
+眩しい (mabushii): dazzling, radiant
 間違い (machigai): mistake, error, blunder
 間違う (machigau): to make a mistake
 窓口 (madoguchi): ticket window, counter
@@ -890,7 +890,7 @@
 真似 (mane): imitating, copying
 招く (maneku): to invite, to ask
 万一 (man’ichi): by some chance
-満点 (manten): perfect score, full marks​
+満点 (manten): perfect score, full marks
 満足 (manzoku): satisfaction, contentment
 丸 (maru): circle
 真逆 (masaka): by no means, never
@@ -911,18 +911,18 @@
 面倒 (mendou): trouble, care
 免許 (menkyo): license, permit
 免許証 (menkyoshou): license, permit
-面接 (mensetsu): interview (e.g. for a job)​
+面接 (mensetsu): interview (e.g. for a job)
 飯 (meshi): cooked rice, meal
-目覚まし時計 (mezamashidokei): alarm clock​
+目覚まし時計 (mezamashidokei): alarm clock
 身 (mi): body, oneself
 実 (mi): fruit, nut
-身につける (mi ni tsukeru): to learn; to acquire knowledge​
+身につける (mi ni tsukeru): to learn; to acquire knowledge
 満ちる (michiru): to be full
 身近 (midjika): near oneself, close to one
 見事 (migoto): splendid, magnificent
 味方 (mikata): friend, ally
 見舞い (mimai): visiting ill or distressed people
-未満 (miman): less than, insufficient​
+未満 (miman): less than, insufficient
 見送り (miokuri): seeing one off
 見送る (miokuru): to see someone off
 未来 (mirai): the future
@@ -934,7 +934,7 @@
 持上げる (mochiageru): to elevate, to raise
 持ち運び (mochihakobi): carrying
 用いる (mochiiru): to use, to make use of
-持ち物 (mochimono): personal effects, one’s belongings​
+持ち物 (mochimono): personal effects, one’s belongings
 戻す (modosu): to put back, to give back
 燃える (moeru): to burn, to get fired up
 文字 (moji): letter (of alphabet)
@@ -971,7 +971,7 @@
 名 (na): name, given name
 鍋 (nabe): saucepan, pot
 撫でる (naderu): to stroke, to caress
-長生き (nagaiki): longevity, long life​
+長生き (nagaiki): longevity, long life
 眺め (nagame): view, scene, prospect
 眺める (nagameru): to view, to gaze at
 流れ (nagare): stream, current, flow
@@ -984,7 +984,7 @@
 半ば (nakaba): middle, half
 仲間 (nakama): fellow, companion
 中身 (nakami): contents, interior
-仲直り (nakanaori): reconciliation, make peace with​
+仲直り (nakanaori): reconciliation, make peace with
 生 (nama): raw, uncooked
 怠ける (namakeru): to be idle
 波 (nami): wave
@@ -992,7 +992,7 @@
 直 (nao): straight, ordinary, common
 情けない (nasakenai): miserable, pitiable
 納得 (nattoku): consent, assent
-懐かしい (natsukashii): missed, nostalgic​
+懐かしい (natsukashii): missed, nostalgic
 縄 (nawa): rope, cord
 悩む (nayamu): to be worried
 謎 (nazo): riddle, puzzle, mystery
@@ -1010,7 +1010,7 @@
 似合う (niau): to suit, to match
 日常 (nichijou): ordinary, everyday
 日中 (nicchuu): daytime, during the day
-日時 (nichiji): date and time​
+日時 (nichiji): date and time
 日夜 (nichiya): day and night, always, constantly
 苦手 (nigate): poor at, weak in
 握る (nigiru): to grip, to grasp
@@ -1019,7 +1019,7 @@
 にっこり (nikkori): smile, grin
 人間 (ningen): human being, person
 人気 (ninki): popularity
-人数 (ninzuu): the number of people​
+人数 (ninzuu): the number of people
 日程 (nittei): schedule, program
 野 (no): plain, field
 伸ばす (nobasu): to grow long
@@ -1044,7 +1044,7 @@
 入学 (nyuugaku): matriculation
 入院 (nyuuin): hospitalization
 入場 (nyuujou): entrance, admission
-入力 (nyuuryoku): input, (data) entry​
+入力 (nyuuryoku): input, (data) entry
 入社 (nyuusha): joining a company
 溺れる (oboreru): to drown
 帯 (obi): obi, kimono sash
@@ -1066,14 +1066,14 @@
 温暖 (ondan): warm, mild
 温度 (ondo): temperature
 鬼 (oni): demon
-温泉 (onsen): hot spring​
+温泉 (onsen): hot spring
 追い付く (oitsuku): to catch up with
-大雨 (ooame): heavy rain​
+大雨 (ooame): heavy rain
 大型 (oogata): large, larged-size
 大いに (ooi ni): very, much, greatly
 覆う (oou): to cover, to conceal
 大家 (ooya): landlord, landlady
-大雪 (ooyuki): heavy snow​
+大雪 (ooyuki): heavy snow
 下す (orosu): to lower, to drop
 降ろす (orosu): to take down, to unload
 収める (osameru): to dedicate, to supply
@@ -1088,7 +1088,7 @@
 恐れる (osoreru): to fear, to be afraid of
 恐ろしい (osoroshii): terrible, dreadful
 お互い (otagai): mutual
-おとなしい: obedient, docile, quiet​
+おとなしい: obedient, docile, quiet
 追う (ou): to chase, to run after
 応募 (oubo): application, enlistment
 応援 (ouen): aid, assistance, help
@@ -1097,7 +1097,7 @@
 横断 (oudan): crossing, traverse
 王子 (ouji): prince
 応じる (oujiru): to respond, to comply
-応用 (ouyou): putting to practical use​
+応用 (ouyou): putting to practical use
 終 (owari): the end
 及ぼす (oyobosu): to exert, to cause
 泳ぎ (oyogi): swimming
@@ -1108,7 +1108,7 @@
 例 (rei): example, case
 礼儀 (reigi): manners, courtesy
 冷静 (reisei): calm, composure
-連絡先 (renrakusaki): contact address​
+連絡先 (renrakusaki): contact address
 練習 (renshuu): practice, practicing
 連想 (rensou): association of ideas
 連続 (renzoku): serial, consecutive
@@ -1121,7 +1121,7 @@
 立派 (rippa): splendid, fine
 理想 (risou): ideal
 率 (ritsu): rate, ratio
-利用者 (riyousha): user, consumer​
+利用者 (riyousha): user, consumer
 論文 (ronbun): thesis, essay
 論じる (ronjiru): to argue, to debate
 論争 (ronsou): controversy, dispute
@@ -1130,7 +1130,7 @@
 量 (ryou): quantity, amount
 両替 (ryougae): change, money exchange
 料金 (ryoukin): fee, charge, fare
-領収書 (ryoushuusho): hand-written receipt​
+領収書 (ryoushuusho): hand-written receipt
 留学 (ryuugaku): studying abroad
 流行 (ryuukou): fashion, vogue
 差 (sa): difference, variation
@@ -1140,7 +1140,7 @@
 作法 (sahou): manners, etiquette
 裁判 (saiban): trial, judgement
 最上 (saijou): best
-参加者 (sankasha): participant, entrant​
+参加者 (sankasha): participant, entrant
 最高 (saikou): highest, supreme
 才能 (sainou): talent, ability
 最終 (saishuu): last, final
@@ -1178,7 +1178,7 @@
 正 (sei): true, regular
 性 (sei): gender
 所為 (sei): consequence, result, blame
-製 (sei): -made, make​
+製 (sei): -made, make
 性別 (seibetsu): gender
 生物 (seibutsu): living things
 成長 (seichou): growth, grow to adulthood
@@ -1187,7 +1187,7 @@
 制服 (seifuku): uniform
 制限 (seigen): restriction, restraint
 製品 (seihin): manufactured goods
-政治家 (seijika): politician, statesman​
+政治家 (seijika): politician, statesman
 成人 (seijin): adult
 正常 (seijou): normalcy, normality
 正解 (seikai): correct, right
@@ -1218,7 +1218,7 @@
 宣伝 (senden): publicity, advertisement
 先日 (senjitsu): the other day
 専攻 (senkou): major subject
-専門 (senmon): specialty, area of expertise​
+専門 (senmon): specialty, area of expertise
 専門家 (senmonka): specialist, expert
 選手 (senshu): player, team member
 選択 (sentaku): selection, choice
@@ -1228,13 +1228,13 @@
 節約 (setsuyaku): economizing, saving
 喋る (shaberu): to talk, to chat
 車道 (shadou): roadway
-社員 (shain): company employee​
+社員 (shain): company employee
 借金 (shakkin): debt, loan, liabilities
 詩 (shi): poem
 幸せ (shiawase): happiness, good fortune
 芝居 (shibai): play, drama
 芝生 (shibafu): lawn
-縛る (shibaru): to tie, to bind, to fasten​
+縛る (shibaru): to tie, to bind, to fasten
 屡々 (shibashiba): often, again and again
 死亡 (shibou): death, mortality
 次第に (shidai ni): gradually, in sequence
@@ -1251,7 +1251,7 @@
 然も (shika mo): moreover, furthermore
 式 (shiki): equation, ceremony, style
 頻りに (shikiri ni): frequently, repeatedly
-湿気 (shikke): moisture, humidity, dampness​
+湿気 (shikke): moisture, humidity, dampness
 支給 (shikyuu): provision, supply
 姉妹 (shimai): sisters
 仕舞う (shimau): to finish, to stop
@@ -1266,7 +1266,7 @@
 進学 (shingaku): entering a higher-level school
 信号 (shingou): signal, traffic light
 信じる (shinjiru): to believe, to trust
-新幹線 (shinkansen): Shinkansen, bullet train​
+新幹線 (shinkansen): Shinkansen, bullet train
 神経 (shinkei): nerve, sensitivity
 真剣 (shinken): seriousness, earnestness
 深刻 (shinkoku): serious, severe
@@ -1277,23 +1277,23 @@
 進歩 (shinpo): progress, advance
 信頼 (shinrai): reliance, trust
 心理 (shinri): state of mind, mentality
-森林 (shinrin): forest, woods​
+森林 (shinrin): forest, woods
 診察 (shinsatsu): medical examination
 親戚 (shinseki): relative, relation
 新鮮 (shinsen): fresh
 信用 (shin’you): confidence, credit
 親友 (shin’yuu): close friend
 心臓 (shinzou): heart, guts, nerve
-調べ物 (shirabemono): matter to be checked or investigated​
+調べ物 (shirabemono): matter to be checked or investigated
 知らせ (shirase): news, notice
 尻 (shiri): buttocks, bottom
 知り合い (shiriai): acquaintance
 知り合う (shiriau): to get to know (someone)
 城 (shiro): castle
 印 (shirushi): seal, stamp, mark
-資料 (shiryou): materials, data, document​
+資料 (shiryou): materials, data, document
 姿勢 (shisei): posture, attitude
-試食 (shishoku): sampling food​
+試食 (shishoku): sampling food
 支出 (shishutsu): expenditure
 思想 (shisou): thought, idea
 舌 (shita): tongue
@@ -1303,11 +1303,11 @@
 支店 (shiten): branch office
 質 (shitsu): quality, value
 失望 (shitsubou): disappointment, despair
-湿度 (shitsudo): level of humidity​
+湿度 (shitsudo): level of humidity
 失業 (shitsugyou): unemployment
 しつこい: obstinate, persistent
-室内 (shitsunai): indoor, inside the room​
-市役所 (shiyakusho): municipal office, city hall​
+室内 (shitsunai): indoor, inside the room
+市役所 (shiyakusho): municipal office, city hall
 使用 (shiyou): use, application
 自然 (shizen): nature, natural
 沈む (shizumu): to sink, to go under
@@ -1346,7 +1346,7 @@
 少年 (shounen): boy, juvenile
 商人 (shounin): trader, merchant
 承認 (shounin): recognition, acknowledgement
-小説家 (shousetsuka): novelist, fiction writer​
+小説家 (shousetsuka): novelist, fiction writer
 少々 (shoushou): just a minute
 衝突 (shoutotsu): collision, crash
 出張 (shucchou): official tour, business trip
@@ -1357,7 +1357,7 @@
 手術 (shujutsu): surgical operation
 瞬間 (shunkan): moment, instant, second
 出勤 (shukkin): going to work, leaving for work
-縮小 (shukushou): reduction, curtailment​
+縮小 (shukushou): reduction, curtailment
 種類 (shurui): variety, kind, type
 首相 (shushou): Prime Minister
 首都 (shuto): capital city
@@ -1367,19 +1367,19 @@
 出身 (shusshin): person’s origin
 集中 (shuuchuu): concentration
 集団 (shuudan): group, mass
-集合 (shuugou): gathering, assembly, meeting​
+集合 (shuugou): gathering, assembly, meeting
 周囲 (shuui): surroundings, environs
 収穫 (shuukaku): harvest, crop
 週間 (shuukan): week
-週刊 (shuukan): weekly publication​
+週刊 (shuukan): weekly publication
 宗教 (shuukyou): religion
 週末 (shuumatsu): weekend
 収入 (shuunyuu): income, revenue
 修理 (shuuri): repairing, mending
-終了 (shuuryou): end, close, termination​
+終了 (shuuryou): end, close, termination
 修正 (shuusei): amendment, correction
 就職 (shuushoku): finding employment
-終点 (shuuten): terminus, last stop (e.g. train)​
+終点 (shuuten): terminus, last stop (e.g. train)
 育つ (sodatsu): to be raised
 袖 (sode): sleeve
 祖父母 (sofubo): grandparents
@@ -1393,15 +1393,15 @@
 損害 (songai): damage, injury, loss
 尊敬 (sonkei): respect, esteem
 存在 (sonzai): existence, being
-夫々 (sorezore): each, respectively​
+夫々 (sorezore): each, respectively
 注ぐ (sosogu): to pour into, to fill
 組織 (soshiki): organization
 装置 (souchi): equipment, installation
 早朝 (souchou): early morning
-掃除機 (soujiki): vacuum cleaner​
+掃除機 (soujiki): vacuum cleaner
 騒音 (souon): noise
 操作 (sousa): operation, management
-早退 (soutai): leaving early​
+早退 (soutai): leaving early
 相当 (soutou): considerable, suitable
 相続 (souzoku): succession, inheritance
 想像 (souzou): imagination, guess
@@ -1437,7 +1437,7 @@
 逮捕 (taiho): arrest, apprehension
 体育 (taiiku): physical education
 体育館 (taiikukan): gymnasium
-体重 (taijuu): (body) weight​
+体重 (taijuu): (body) weight
 大会 (taikai): convention, tournament
 大気 (taiki): atmosphere
 退屈 (taikutsu): tedium, boredom
@@ -1457,7 +1457,7 @@
 滞在 (taizai): staying, sojourn
 宝 (takara): treasure
 弾 (tama): ball, sphere, globe, bullet
-貯まる (tamaru): to be saved up (of money)​
+貯まる (tamaru): to be saved up (of money)
 偶々 (tamatama): casually, unexpectedly
 貯める (tameru): to save up (money)
 試し (tameshi): trial, test
@@ -1466,13 +1466,13 @@
 単語 (tango): word, vocabulary
 谷 (tani): valley
 単位 (tan’i): unit, denomination
-短気 (tanki): quick temper, short temper​
+短気 (tanki): quick temper, short temper
 他人 (ta’nin): another person, others
 単なる (tannaru): mere, simple, sheer
 単に (tan ni): simply, merely
 誕生 (tanjou): birth, creation
 単純 (tanjun): simplicity, simple
-楽しむ (tanoshimu): to enjoy (oneself)​
+楽しむ (tanoshimu): to enjoy (oneself)
 担当 (tantou): being in charge
 倒す (taosu): to bring down
 確かめる (tashikameru): to ascertain, to check
@@ -1505,7 +1505,7 @@
 手間 (tema): time, labor
 典型 (tenkei): pattern, model
 天候 (tenkou): weather
-店内 (tennai): store interior​
+店内 (tennai): store interior
 天然 (tennen): nature, spontaneity
 徹底 (tettei): thoroughness, completeness
 鉄 (tetsu): iron
@@ -1516,7 +1516,7 @@
 飛ばす (tobasu): to fly, to skip over
 土地 (tochi): plot of land, soil
 届く (todoku): to reach, to be delivered
-徒歩 (toho): walking, going on foot​
+徒歩 (toho): walking, going on foot
 問い (toi): question, query
 閉じる (tojiru): to close (book, eyes)
 都会 (tokai): city
@@ -1545,7 +1545,7 @@
 答案 (touan): examination paper
 到着 (touchaku): arrival
 投票 (touhyou): voting, poll
-当日 (toujitsu): appointed day, very day​
+当日 (toujitsu): appointed day, very day
 当然 (touzen): natural
 登山 (tozan): mountain climbing
 翼 (tsubasa): wing
@@ -1574,7 +1574,7 @@
 通学 (tsuugaku): commuting to school
 通じる (tsuujiru): to lead to, to be understood
 通過 (tsuuka): passage through
-通勤 (tsuukin): commuting to work​
+通勤 (tsuukin): commuting to work
 通行 (tsuukou): passage, passing
 通信 (tsuushin): correspondence, communication
 通訳 (tsuuyaku): interpretation
@@ -1586,7 +1586,7 @@
 伺う (ukagau): to ask, to inquire
 受け取る (uketoru): to receive, to get
 うっかり: carelessly, thoughtlessly
-浮く (uku): to float​
+浮く (uku): to float
 馬 (uma): horse
 生まれ (umare): birth, birthplace
 梅 (ume): plum, plum tree
@@ -1594,12 +1594,12 @@
 生む: to give birth, to produce
 運 (un): fortune, luck
 唸る (unaru): to groan, to moan
-運動会 (undoukai): athletic meet, sports day​
+運動会 (undoukai): athletic meet, sports day
 裏側 (uragawa): the reverse, other side
 羨ましい (urayamashii): envious, jealous
 裏切る (uragiru): to betray
 売れる (ureru): to sell well
-売り切れる (urikireru): to be sold out​
+売り切れる (urikireru): to be sold out
 兎 (usagi): rabbit, hare
 牛 (ushi): cattle, cow
 失う (ushinau): to lose
@@ -1628,7 +1628,7 @@
 家賃 (yachin): rent
 宿 (yado): inn, lodging
 矢張り (yahari): as expected
-夜間 (yakan): night, nighttime​
+夜間 (yakan): night, nighttime
 厄介 (yakkai): trouble, nuisance
 役 (yaku): use, service, role
 約 (yaku): approximately, about
@@ -1648,8 +1648,8 @@
 予期 (yoki): expectation, forecast
 横切る (yokogiru): to cross, to traverse
 横 (yoko): horizontal, beside
-翌朝 (yokuasa): next morning​
-翌年 (yokutoshi): following year​
+翌朝 (yokuasa): next morning
+翌年 (yokutoshi): following year
 嫁 (yome): wife, bride
 読み (yomi): reading
 夜中 (yonaka): midnight, dead of night
@@ -1666,7 +1666,7 @@
 用心 (youjin): care, precaution
 陽気 (youki): weather, cheerful
 要求 (youkyuu): demand, firm request
-用紙 (youshi): blank form​
+用紙 (youshi): blank form
 要素 (youso): element, factor, component
 様子 (yousu): state, appearance
 要点 (youten): gist, main point
@@ -1682,7 +1682,7 @@
 豊か (yutaka): abundant, wealthy
 郵便 (yuubin): mail service
 遊園地 (yuuenchi): amusement park
-夕方 (yuugata): evening, dusk​
+夕方 (yuugata): evening, dusk
 友人 (yuujin): friend
 友情 (yuujou): friendship, fellowship
 勇気 (yuuki): courage, bravery
@@ -1693,19 +1693,19 @@
 有料 (yuuryou): fee-charging, paid
 優勝 (yuushou): championship, overall victory
 優秀 (yuushuu): superiority, excellence
-郵送 (yuusou): mailing, posting​
+郵送 (yuusou): mailing, posting
 譲る (yuzuru): to hand over, to surrender
 稍 (yaya): a little, partially
 材料 (zairyou): ingredients, material
 財産 (zaisan): property, fortune, assets
-残業 (zangyou): overtime (work)​
+残業 (zangyou): overtime (work)
 座席 (zaseki): seat
 ざっと (zatto): roughly, in rough number
 是非 (zehi): certainly, without fail
 税金 (zeikin): tax, duty
 贅沢 (zeitaku): luxury, extravagance
 善 (zen): good, goodness, virtue
-前後 (zengo): before and after​, front and rear
+前後 (zengo): before and after, front and rear
 全員 (zen’in): all members, everyone
 前日 (zenjitsu): previous day, day before
 全国 (zenkoku): countrywide, nationwide

@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b11e7545-5be4-4a86-a41e-34879b1dc788" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JapaneseTest4You_Lists/N2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HiraganaLib.py" beforeDir="false" afterPath="$PROJECT_DIR$/HiraganaLib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JTestConversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/JTestConversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/N1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JapaneseTest4You_Lists/N1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/N2 Backup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/N2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/N3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JapaneseTest4You_Lists/N3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/N4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JapaneseTest4You_Lists/N4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/N5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JapaneseTest4You_Lists/N5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversion.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +42,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Eddy Rogers\Documents\GitHub\HiraganaConversion\JapaneseTest4You_Lists" />
       <recent name="C:\Users\Eddy Rogers\Documents\GitHub\HiraganaConversion" />
     </key>
   </component>

@@ -2,8 +2,17 @@ import codecs
 # coding: utf8
 
 
+def check_vowel_or_special(char):
+    return check_vowel(char) or check_special(char)
+
+
 def check_vowel(char):
     return char == 'a' or char == 'i' or char == 'u' or char == 'e' or char == 'o'
+
+
+# Space can indicate either a skipped character or a を
+def check_special(char):
+    return char == '' or char == 'n'
 
 
 def can_convert(substr):
@@ -40,12 +49,12 @@ def convert_hiragana(inputfilearg):
                     index -= 1
             else:
                 if line[index].lower() == '(':
-                    outputline = ':[' + outputline
+                    outputline = ': [' + outputline
                     hiraganaconversion = False
                     index -= 1
                 else:
-                    # Check if the current character is a vowel
-                    isvowel = check_vowel(line[index].lower())
+                    # Check if the current character is a vowel or special character 'n' or ' '
+                    isvowel = check_vowel_or_special(line[index].lower())
                     if isvowel:
                         # First, prioritize 3 letter combinations
                         if can_convert(line[index - 2: index + 1]):
@@ -59,19 +68,20 @@ def convert_hiragana(inputfilearg):
                         elif can_convert(line[index: index + 1]):
                             outputline = convert(line[index: index + 1]) + outputline
                             index -= 1
-                        # Unexpected character sequence, except
+
                         else:
-                            raise UnconvertedSubstringException(line[index - 2: index + 1])
+                            # Skip over spaces
+                            if line[index] == ' ':
+                                index -= 1
+                            # Unexpected character sequence, except
+                            else:
+                                raise UnconvertedSubstringException(line[index - 2: index + 1])
                     else:
-                        # TO:DO :: Both the 'n' and " o " special cases could be included as conversions in the dict
-                        # This solution would require a new check vowel (?) function that would pick those scenarios up.
-                        if line[index].lower() == 'n':
-                            outputline = 'ん' + outputline
+                        # Skip over spaces
+                        if line[index] == ' ':
                             index -= 1
-                        elif index >= 2 and line[index - 2: index + 1] == " o ":
-                            outputline = 'を' + outputline
-                            index -= 3
                         else:
+                            # Other characters are double consonants and require a small 'っ'
                             outputline = 'っ' + outputline
                             index -= 1
         outputfile.write(outputline)
@@ -123,6 +133,7 @@ hiraganaDict = {
     'yo': 'よ',
     'wa': 'わ',
     'n': 'ん',
+    'm': 'ん',
     'ga': 'が',
     'gi': 'ぎ',
     'gu': 'ぐ',
@@ -181,5 +192,6 @@ hiraganaDict = {
     'pya': 'ぴゃ',
     'pyu': 'ぴゅ',
     'pyo': 'ぴょ',
-    'n’i': 'んい'
+    'n’i': 'んい',
+    ' o ': 'を'
 }
